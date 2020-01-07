@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Data Science Portfolio - Sri Harsha Manjunath
+
 The following contains a portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
 
