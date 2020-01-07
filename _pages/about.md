@@ -13,7 +13,7 @@ The following contains a portfolio of data science projects completed by me for 
 
 - ### Machine Learning
 
-	- [Bank Campaign Prediction](https://github.com/srmanj/Machine-Learning-bank-Campaign-Prediction/blob/master/Assignment2-F19.ipynb): Trained multiple variations of logistic regression with Ridge regression on the UCI Bank Marketing data-set to predict if a customer would be likely to subscribe to a term deposit or not
+	- [Bank Campaign Prediction](https://github.com/srmanj/Machine-Learning-bank-Campaign-Prediction/blob/master/Assignment2-F19.ipynb): Trained multiple variations of logistic regression with ridge regularization on the UCI Bank Marketing data-set to predict if a customer would be likely to subscribe to a term deposit or not
 
 	- [Feature Engineering Exercise](https://github.com/srmanj/Data-Analysis-Visualization/blob/master/assignment4_F19.ipynb): This implementation attempts to improve model accuracy using only feature engineering techniques and benchmarks the results on Neural Nets, Random Forests, SVM and K Nearest neighbors 
 
