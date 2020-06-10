@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 # Sri Harsha Manjunath
 
 ## Hello ! I'm Harsha
@@ -17,15 +16,17 @@ I am a Data Science graduate student at Indiana University, Bloomington with a d
 
 # 🎓 Education
 
-## Indiana University, Bloomington, IN - Aug *2019 - May 2021*
+## Indiana University, Bloomington, IN 
 
-Master of Science - Data Science  **GPA**: 3.7 / 4.0
+Master of Science - Data Science  **GPA**: 3.7 / 4.0 - Aug *2019 - May 2021*
+
 **Relevant Coursework**: Elements of AI, Machine Learning, Visual Analytics, Deep Learning, Social Media Mining, Product Management
 👨🏼‍🎓**Honors**: Research Scholarship Award (Case Study Competition – Grant Thornton LLC)
 
-## Visvesvaraya Technological University, Bangalore, India - Aug *2013 - May 2017* 
+## Visvesvaraya Technological University, Bangalore, India - 
 
-Bachelor of Engineering - Computer Science & Engineering                              
+Bachelor of Engineering - Computer Science & Engineering - Aug *2013 - May 2017*            
+
 **Relevant Coursework:** Data Structures, Design & Analysis of Algorithms, DBMS, Operating Systems, UNIX, Operations Research
 
 ---
